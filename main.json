@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "name": "Action",
+      "slug": "action",
+      "items": [
+        { "id": "naruto", "title": "Naruto", "thumb": "image_url", "data_file": "/data/action/naruto.json" },
+        { "id": "dbz", "title": "Dragon Ball Z", "thumb": "image_url", "data_file": "/data/action/dbz.json" }
+      ]
+    },
+    {
+      "name": "Trending",
+      "slug": "trending",
+      "items": [
+        { "id": "naruto", "title": "Naruto", "thumb": "image_url", "data_file": "/data/action/naruto.json" }
+      ]
+    }
+  ],
+  "featured": { "id": "naruto", "title": "Naruto Shippuden", "banner": "banner_url" }
+}
