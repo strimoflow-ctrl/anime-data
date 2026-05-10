@@ -1,10 +1,10 @@
 {
   "featured": {
-    "title": "Solo Leveling",
-    "description": "In a world where hunters, humans who possess magical abilities, must battle deadly monsters to protect the human race from certain annihilation, a notoriously weak hunter named Sung Jinwoo finds himself in a seemingly endless struggle for survival.",
-    "banner": "https://anime-net-api.netlify.app/images/naruto_poster.jpg",
-    "data_file": "solo-leveling.json",
-    "rating": "99% Match",
+    "title": "Tokyo Revengers",
+    "description": "Takemichi Hanagaki suddenly travels 12 years into the past after learning about the tragic death of his ex-girlfriend Hinata Tachibana. Determined to change the future, he infiltrates the dangerous Tokyo Manji Gang and fights to rewrite destiny.",
+    "banner": "https://anime-net-api.netlify.app/images/tokyo_revange_poster.jpg",
+    "data_file": "tokyo-revengers.json",
+    "rating": "96% Match",
     "category": "Action"
   },
   "categories": [
