@@ -3,8 +3,8 @@
   "description": "Takemichi Hanagaki, a part-time worker leading a dull life, discovers that his middle school ex-girlfriend Hinata Tachibana has been killed by the Tokyo Manji Gang. After a mysterious incident sends him 12 years into the past, Takemichi decides to change the future by infiltrating the gang and rewriting destiny.",
   "year": "2021",
   "rating": "8.0",
-  "banner": "https://upload.wikimedia.org/wikipedia/en/2/2b/Tokyo_Revengers_key_visual.jpg",
-  "poster": "https://upload.wikimedia.org/wikipedia/en/2/2b/Tokyo_Revengers_key_visual.jpg",
+  "banner": "https://anime-net-api.netlify.app/images/tokyo_revange_banner.jpg",
+  "poster": "https://anime-net-api.netlify.app/images/tokyo_revange_banner.jpg",
   "episodes": [
     {
       "id": "e1",
