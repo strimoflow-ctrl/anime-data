@@ -1,20 +1,23 @@
 {
+  "featured": {
+    "id": "naruto-001",
+    "title": "Naruto Shippuden",
+    "banner": "https://image.tmdb.org/t/p/original/977vS9X78nnC6S086S8pYv9u9gh.jpg",
+    "description": "Ninja story...",
+    "data_file": "/data/action/naruto.json"
+  },
   "categories": [
     {
       "name": "Action",
-      "slug": "action",
       "items": [
-        { "id": "naruto", "title": "Naruto", "thumb": "image_url", "data_file": "/data/action/naruto.json" },
-        { "id": "dbz", "title": "Dragon Ball Z", "thumb": "image_url", "data_file": "/data/action/dbz.json" }
-      ]
-    },
-    {
-      "name": "Trending",
-      "slug": "trending",
-      "items": [
-        { "id": "naruto", "title": "Naruto", "thumb": "image_url", "data_file": "/data/action/naruto.json" }
+        {
+          "id": "naruto-001",
+          "title": "Naruto",
+          "poster": "https://image.tmdb.org/t/p/w500/977vS9X78nnC6S086S8pYv9u9gh.jpg",
+          "rating": "9.5",
+          "data_file": "/data/action/naruto.json"
+        }
       ]
     }
-  ],
-  "featured": { "id": "naruto", "title": "Naruto Shippuden", "banner": "banner_url" }
+  ]
 }
