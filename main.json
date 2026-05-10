@@ -2,7 +2,7 @@
   "featured": {
     "id": "naruto-001",
     "title": "Naruto Shippuden",
-    "banner": "https://ibb.co/My6SH1vB",
+    "banner": "https://anime-net-api.netlify.app/images/naruto_poster.jpg",
     "description": "Ninja story...",
     "data_file": "/data/action/naruto.json"
   },
