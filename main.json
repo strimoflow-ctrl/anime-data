@@ -3,7 +3,7 @@
     "title": "Tokyo Revengers",
     "description": "Takemichi Hanagaki suddenly travels 12 years into the past after learning about the tragic death of his ex-girlfriend Hinata Tachibana. Determined to change the future, he infiltrates the dangerous Tokyo Manji Gang and fights to rewrite destiny.",
     "banner": "https://anime-net-api.netlify.app/images/tokyo_revange_poster.jpg",
-    "data_file": "tokyo-revengers.json",
+    "data_file": "data/action/tokyo-revengers.json",
     "rating": "96% Match",
     "category": "Action"
   },
@@ -14,7 +14,7 @@
         {
           "title": "Tokyo Revengers",
           "poster": "https://anime-net-api.netlify.app/images/tokyo_revange_banner.jpg",
-          "data_file": "tokyo-revengers.json"
+          "data_file": "data/action/tokyo-revengers.json"
         },
         {
           "title": "Demon Slayer",
