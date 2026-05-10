@@ -1,46 +1,15 @@
 {
   "id": "naruto-001",
-  "title": "Naruto Shippuden",
-  "description": "After 2 years of training, Naruto returns to the Hidden Leaf village to face the Akatsuki and bring back his friend Sasuke.",
-  "poster": "https://ibb.co/39Kmm00c",
-  "banner": "https://ibb.co/39Kmm00c",
-  "rating": "9.5",
-  "year": "2007",
-  "genre": ["Action", "Ninja", "Adventure"],
   "seasons": [
     {
       "season_number": 1,
-      "season_name": "Kazekage Rescue Mission",
       "episodes": [
         {
           "id": "ep1",
           "number": 1,
           "title": "Homecoming",
           "thumbnail": "https://image.tmdb.org/t/p/w500/mrlpGvYt09F0XvXfQpZ0vYx1.jpg",
-          "link": "http://filestreambot-1-jx2x.onrender.com/dl/6a0027ac37a70c8789d18476",
-          "duration": "24:00"
-        },
-        {
-          "id": "ep2",
-          "number": 2,
-          "title": "The Akatsuki Makes Its Move",
-          "thumbnail": "https://image.tmdb.org/t/p/w500/another-thumb.jpg",
-          "link": "http://filestreambot-link-episode-2",
-          "duration": "23:45"
-        }
-      ]
-    },
-    {
-      "season_number": 2,
-      "season_name": "Long-Awaited Reunion",
-      "episodes": [
-        {
-          "id": "ep33",
-          "number": 33,
-          "title": "A New Target",
-          "thumbnail": "https://image.tmdb.org/t/p/w500/thumb-ep-33.jpg",
-          "link": "http://filestreambot-link-episode-33",
-          "duration": "24:00"
+          "link": "http://filestreambot-1-jx2x.onrender.com/dl/6a0027ac37a70c8789d18476"
         }
       ]
     }
