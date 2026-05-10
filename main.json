@@ -2,7 +2,7 @@
   "featured": {
     "title": "Solo Leveling",
     "description": "In a world where hunters, humans who possess magical abilities, must battle deadly monsters to protect the human race from certain annihilation, a notoriously weak hunter named Sung Jinwoo finds himself in a seemingly endless struggle for survival.",
-    "banner": "https://i.ibb.co/6ZzXfQy/solo-leveling-banner.jpg",
+    "banner": "https://anime-net-api.netlify.app/images/naruto_poster.jpg",
     "data_file": "solo-leveling.json",
     "rating": "99% Match",
     "category": "Action"
