@@ -1,21 +1,40 @@
 {
   "featured": {
-    "id": "naruto-001",
-    "title": "Naruto Shippuden",
-    "banner": "https://anime-net-api.netlify.app/images/naruto_poster.jpg",
-    "description": "Ninja story...",
-    "data_file": "/data/action/naruto.json"
+    "title": "Solo Leveling",
+    "description": "In a world where hunters, humans who possess magical abilities, must battle deadly monsters to protect the human race from certain annihilation, a notoriously weak hunter named Sung Jinwoo finds himself in a seemingly endless struggle for survival.",
+    "banner": "https://i.ibb.co/6ZzXfQy/solo-leveling-banner.jpg",
+    "data_file": "solo-leveling.json",
+    "rating": "99% Match",
+    "category": "Action"
   },
   "categories": [
     {
-      "name": "Action",
+      "name": "Trending Now",
       "items": [
         {
-          "id": "naruto-001",
-          "title": "Naruto",
-          "poster": "https://image.tmdb.org/t/p/w500/977vS9X78nnC6S086S8pYv9u9gh.jpg",
-          "rating": "9.5",
-          "data_file": "/data/action/naruto.json"
+          "title": "Naruto Shippuden",
+          "poster": "https://i.ibb.co/VvzK212/naruto-poster.jpg",
+          "data_file": "naruto.json"
+        },
+        {
+          "title": "Demon Slayer",
+          "poster": "https://i.ibb.co/3W4T5gR/demon-slayer-poster.jpg",
+          "data_file": "demon-slayer.json"
+        }
+      ]
+    },
+    {
+      "name": "Action Anime",
+      "items": [
+        {
+          "title": "Jujutsu Kaisen",
+          "poster": "https://i.ibb.co/b3jH5P8/jjk-poster.jpg",
+          "data_file": "jjk.json"
+        },
+        {
+          "title": "Attack on Titan",
+          "poster": "https://i.ibb.co/Xz9kHnL/aot-poster.jpg",
+          "data_file": "aot.json"
         }
       ]
     }
