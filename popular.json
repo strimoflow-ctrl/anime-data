@@ -1,0 +1,30 @@
+[
+  {
+    "title": "One Piece",
+    "poster": "https://i.ibb.co/L5Q41K7/one-piece-poster.jpg",
+    "data_file": "one-piece.json",
+    "rating": "9.0",
+    "tags": ["Action", "Adventure"]
+  },
+  {
+    "title": "Bleach",
+    "poster": "https://i.ibb.co/hK70R3x/bleach-poster.jpg",
+    "data_file": "bleach.json",
+    "rating": "8.5",
+    "tags": ["Action", "Supernatural"]
+  },
+  {
+    "title": "Dragon Ball Z",
+    "poster": "https://i.ibb.co/V3QdF9T/dbz-poster.jpg",
+    "data_file": "dbz.json",
+    "rating": "9.5",
+    "tags": ["Action", "Martial Arts"]
+  },
+  {
+    "title": "My Hero Academia",
+    "poster": "https://i.ibb.co/YyYkQpK/mha-poster.jpg",
+    "data_file": "mha.json",
+    "rating": "8.4",
+    "tags": ["Action", "Super Power"]
+  }
+]
