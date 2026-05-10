@@ -12,9 +12,9 @@
       "name": "Trending Now",
       "items": [
         {
-          "title": "Naruto Shippuden",
-          "poster": "https://i.ibb.co/VvzK212/naruto-poster.jpg",
-          "data_file": "naruto.json"
+          "title": "Tokyo Revengers",
+          "poster": "https://anime-net-api.netlify.app/images/tokyo_revange_banner.jpg",
+          "data_file": "tokyo-revengers.json"
         },
         {
           "title": "Demon Slayer",
