@@ -1,21 +1,27 @@
 {
-  "title": "Naruto Shippuden",
-  "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger.",
-  "year": "2007",
-  "rating": "8.7",
-  "banner": "https://i.ibb.co/VvzK212/naruto-banner.jpg",
-  "poster": "https://i.ibb.co/VvzK212/naruto-poster.jpg",
+  "title": "Tokyo Revengers",
+  "description": "Takemichi Hanagaki, a part-time worker leading a dull life, discovers that his middle school ex-girlfriend Hinata Tachibana has been killed by the Tokyo Manji Gang. After a mysterious incident sends him 12 years into the past, Takemichi decides to change the future by infiltrating the gang and rewriting destiny.",
+  "year": "2021",
+  "rating": "8.0",
+  "banner": "https://upload.wikimedia.org/wikipedia/en/2/2b/Tokyo_Revengers_key_visual.jpg",
+  "poster": "https://upload.wikimedia.org/wikipedia/en/2/2b/Tokyo_Revengers_key_visual.jpg",
   "episodes": [
     {
       "id": "e1",
       "number": 1,
-      "title": "Homecoming",
+      "title": "Reborn",
       "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
     },
     {
       "id": "e2",
       "number": 2,
-      "title": "The Akatsuki Makes Its Move",
+      "title": "Resist",
+      "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "id": "e3",
+      "number": 3,
+      "title": "Resolve",
       "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
     }
   ]
