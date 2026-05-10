@@ -1,0 +1,20 @@
+{
+  "id": "naruto-001",
+  "title": "Naruto Shippuden",
+  "poster": "https://path-to-img.jpg",
+  "description": "Ninja story...",
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "id": "ep1",
+          "number": 1,
+          "name": "Homecoming",
+          "link": "http://filestreambot-1-jx2x.onrender.com/dl/6a0027ac37a70c8789d18476",
+          "duration": "24:00"
+        }
+      ]
+    }
+  ]
+}
