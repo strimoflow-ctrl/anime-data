@@ -1,17 +1,22 @@
 {
-  "id": "naruto-001",
-  "seasons": [
+  "title": "Naruto Shippuden",
+  "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger.",
+  "year": "2007",
+  "rating": "8.7",
+  "banner": "https://i.ibb.co/VvzK212/naruto-banner.jpg",
+  "poster": "https://i.ibb.co/VvzK212/naruto-poster.jpg",
+  "episodes": [
     {
-      "season_number": 1,
-      "episodes": [
-        {
-          "id": "ep1",
-          "number": 1,
-          "title": "Homecoming",
-          "thumbnail": "https://image.tmdb.org/t/p/w500/mrlpGvYt09F0XvXfQpZ0vYx1.jpg",
-          "link": "http://filestreambot-1-jx2x.onrender.com/dl/6a0027ac37a70c8789d18476"
-        }
-      ]
+      "id": "e1",
+      "number": 1,
+      "title": "Homecoming",
+      "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "id": "e2",
+      "number": 2,
+      "title": "The Akatsuki Makes Its Move",
+      "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
     }
   ]
 }
