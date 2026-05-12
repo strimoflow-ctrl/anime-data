@@ -7,22 +7,148 @@
   "poster": "https://anime-net-api.netlify.app/images/tokyo_revange_banner.jpg",
   "episodes": [
     {
-      "id": "e1",
+      "id": "ep1",
       "number": 1,
       "title": "Reborn",
-      "stream_url": "http://filestreambot-1-jx2x.onrender.com/dl/6a00bbd437a70c8789d18477"
+      "stream_url": "http://filestreambot-production-7fb8.up.railway.app/dl/6a03149e9326b3e43f8d0702"
     },
     {
-      "id": "e2",
+      "id": "ep2",
       "number": 2,
       "title": "Resist",
-      "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      "stream_url": "http://filestreambot-production-7fb8.up.railway.app/dl/6a0317319326b3e43f8d0703"
     },
     {
-      "id": "e3",
+      "id": "ep3",
       "number": 3,
       "title": "Resolve",
-      "stream_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      "stream_url": "http://filestreambot-production-7fb8.up.railway.app/dl/6a0317439326b3e43f8d0704"
+    },
+    {
+      "id": "ep4",
+      "number": 4,
+      "title": "Return",
+      "stream_url": "http://filestreambot-production-7fb8.up.railway.app/dl/6a0317599326b3e43f8d0705"
+    },
+    {
+      "id": "ep5",
+      "number": 5,
+      "title": "Releap",
+      "stream_url": "http://filestreambot-production-7fb8.up.railway.app/dl/6a0317699326b3e43f8d0706"
+    },
+    {
+      "id": "ep6",
+      "number": 6,
+      "title": "Regret",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep7",
+      "number": 7,
+      "title": "Revive",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep8",
+      "number": 8,
+      "title": "Rechange",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep9",
+      "number": 9,
+      "title": "Revolt",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep10",
+      "number": 10,
+      "title": "Rerise",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep11",
+      "number": 11,
+      "title": "Respect",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep12",
+      "number": 12,
+      "title": "Revenge",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep13",
+      "number": 13,
+      "title": "Odds and Ends",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep14",
+      "number": 14,
+      "title": "Break Up",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep15",
+      "number": 15,
+      "title": "No Pain, No Gain",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep16",
+      "number": 16,
+      "title": "Once Upon a Time",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep17",
+      "number": 17,
+      "title": "No Way",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep18",
+      "number": 18,
+      "title": "Open Fire",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep19",
+      "number": 19,
+      "title": "Turn Around",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep20",
+      "number": 20,
+      "title": "Dead or Alive",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep21",
+      "number": 21,
+      "title": "One and Only",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep22",
+      "number": 22,
+      "title": "One for All",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep23",
+      "number": 23,
+      "title": "End of War",
+      "stream_url": "#"
+    },
+    {
+      "id": "ep24",
+      "number": 24,
+      "title": "A Cry Baby",
+      "stream_url": "#"
     }
   ]
 }
