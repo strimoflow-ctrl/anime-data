@@ -1,0 +1,51 @@
+{
+  "title": "Mr. Robot",
+  "description": "Elliot Alderson, a brilliant but deeply troubled cybersecurity engineer and hacker, is recruited by a mysterious anarchist known as Mr. Robot to join an underground hacker group called fsociety.",
+  "year": "2015",
+  "rating": "8.6",
+  "banner": "https://ibb.co/VpTCKh1j",
+  "poster": "#",
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "id": "s1ep1",
+          "number": 1,
+          "title": "eps1.0_hellofriend.mov",
+          "stream_url": "#"
+        },
+        {
+          "id": "s1ep2",
+          "number": 2,
+          "title": "eps1.1_ones-and-zer0es.mpeg",
+          "stream_url": "#"
+        },
+        {
+          "id": "s1ep3",
+          "number": 3,
+          "title": "eps1.2_d3bug.mkv",
+          "stream_url": "#"
+        },
+        {
+          "id": "s1ep4",
+          "number": 4,
+          "title": "eps1.3_da3m0ns.mp4",
+          "stream_url": "#"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": []
+    },
+    {
+      "season": 3,
+      "episodes": []
+    },
+    {
+      "season": 4,
+      "episodes": []
+    }
+  ]
+}
