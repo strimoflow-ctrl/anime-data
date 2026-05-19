@@ -6,34 +6,34 @@
   "banner": "https://anime-net-api.netlify.app/images/mr_robot_banner.jpg",
   "poster": "https://anime-net-api.netlify.app/images/mr_robot_banner.jpg",
   "seasons": [
-   "seasons": [
-  {
-    "season": 1,
-    "episodes": [
-      {
-        "id": "s1ep1",
-        "number": 1,
-        "title": "Hello Friend",
-        "stream_url": "#"
-      },
-      {
-        "id": "s1ep2",
-        "number": 2,
-        "title": "Ones and Zeroes",
-        "stream_url": "#"
-      },
-      {
-        "id": "s1ep3",
-        "number": 3,
-        "title": "Debug",
-        "stream_url": "#"
-      },
-      {
-        "id": "s1ep4",
-        "number": 4,
-        "title": "Daemons",
-        "stream_url": "#"
-      }
-    ]
-  }
-]
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "id": "s1ep1",
+          "number": 1,
+          "title": "Hello Friend",
+          "stream_url": "http://filestreambot-production-7fb8.up.railway.app/dl/6a0c0bb39326b3e43f8d07d1"
+        },
+        {
+          "id": "s1ep2",
+          "number": 2,
+          "title": "Ones and Zeroes",
+          "stream_url": "http://filestreambot-production-7fb8.up.railway.app/dl/6a0c0bb99326b3e43f8d07d2"
+        },
+        {
+          "id": "s1ep3",
+          "number": 3,
+          "title": "Debug",
+          "stream_url": "http://filestreambot-production-7fb8.up.railway.app/dl/6a0c0bbe9326b3e43f8d07d3"
+        },
+        {
+          "id": "s1ep4",
+          "number": 4,
+          "title": "Daemons",
+          "stream_url": "http://filestreambot-production-7fb8.up.railway.app/dl/6a0c0bc29326b3e43f8d07d4"
+        }
+      ]
+    }
+  ]
+}
