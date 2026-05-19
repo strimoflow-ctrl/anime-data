@@ -5,9 +5,8 @@
     "banner": "https://ibb.co/VpTCKh1j",
     "data_file": "data/webseries/mr-robot.json",
     "rating": "98% Match",
-    "category": "action"
-  }
-}
+    "category": "Action"
+  },
   "categories": [
     {
       "name": "Trending Now",
@@ -18,10 +17,10 @@
           "data_file": "data/action/tokyo-revengers.json"
         },
         {
-  "title": "Mr. Robot",
-  "poster": "https://ibb.co/hxHRFZRY",
-  "data_file": "data/action/mr-robot.json"
-}
+          "title": "Mr. Robot",
+          "poster": "https://ibb.co/hxHRFZRY",
+          "data_file": "data/webseries/mr-robot.json"
+        }
       ]
     },
     {
