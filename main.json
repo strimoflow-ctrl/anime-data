@@ -1,12 +1,13 @@
 {
   "featured": {
-    "title": "Tokyo Revengers",
-    "description": "Takemichi Hanagaki suddenly travels 12 years into the past after learning about the tragic death of his ex-girlfriend Hinata Tachibana. Determined to change the future, he infiltrates the dangerous Tokyo Manji Gang and fights to rewrite destiny.",
-    "banner": "https://anime-net-api.netlify.app/images/tokyo_revange_poster.jpg",
-    "data_file": "data/action/tokyo-revengers.json",
-    "rating": "96% Match",
-    "category": "Action"
-  },
+    "title": "Mr. Robot",
+    "description": "Elliot Alderson, a cybersecurity engineer suffering from social anxiety and paranoia, is recruited by a mysterious anarchist known as Mr. Robot to join a hacker group called fsociety and bring down the world’s largest corporations.",
+    "banner": "https://ibb.co/VpTCKh1j",
+    "data_file": "data/webseries/mr-robot.json",
+    "rating": "98% Match",
+    "category": "action"
+  }
+}
   "categories": [
     {
       "name": "Trending Now",
@@ -17,10 +18,10 @@
           "data_file": "data/action/tokyo-revengers.json"
         },
         {
-          "title": "Demon Slayer",
-          "poster": "https://i.ibb.co/3W4T5gR/demon-slayer-poster.jpg",
-          "data_file": "demon-slayer.json"
-        }
+  "title": "Mr. Robot",
+  "poster": "https://ibb.co/hxHRFZRY",
+  "data_file": "data/action/mr-robot.json"
+}
       ]
     },
     {
