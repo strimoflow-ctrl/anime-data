@@ -19,7 +19,7 @@
         {
           "title": "Mr. Robot",
           "poster": "https://anime-net-api.netlify.app/images/mr_robot_banner.jpg",
-          "data_file": "data/action/mr-robot.json"
+          "data_file": "data/action/mr_robot.json"
         }
       ]
     },
