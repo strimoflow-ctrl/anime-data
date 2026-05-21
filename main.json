@@ -3,7 +3,7 @@
     "title": "Mr. Robot",
     "description": "Elliot Alderson, a cybersecurity engineer suffering from social anxiety and paranoia, is recruited by a mysterious anarchist known as Mr. Robot to join a hacker group called fsociety and bring down the world’s largest corporations.",
     "banner": "https://anime-net-api.netlify.app/images/mr_robot_poster.jpg",
-    "data_file": "data/webseries/mr-robot.json",
+    "data_file": "data/action/mr_robot.json",
     "rating": "98% Match",
     "category": "Action"
   },
